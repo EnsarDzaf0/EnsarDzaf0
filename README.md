@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ensar Džafo
 - 👀 I’m interested in programming and pixelart
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Django
 - 📫 How to reach me ensardzafo03@gmail.com
 
 <!---
